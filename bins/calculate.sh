@@ -2,7 +2,7 @@
 
 # The above line is called a "shebang". It specifies which interpreter to use
 # to run this script. Other popular interpreters include sh (Bourne shell) and 
-# Z shell (zsh)
+# zsh (Z shell)
 
 # create an array of strings
 folderNames=("readIT" "vertical" "file" "grep" "cin")
